@@ -1,0 +1,10 @@
+{
+    "chat.disableAIFeatures": false,
+    "yaml.completion": true,
+    "yaml.schemaStore.enable": true,
+    "yaml.suggest.parentSkeletonSelectedFirst": true,
+    "[yaml]": {
+        "editor.snippetSuggestions": "none",
+        "editor.suggest.showSnippets": false
+    }
+}
